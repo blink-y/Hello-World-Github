@@ -2,4 +2,6 @@
 This is a hello world project for usage of Github
 I added this line in the "features" branch.
 
-Hellom I'm Mitul Mohammad Abdullah Al Mukit at CUHK CSCIN
+Hello I'm Mitul Mohammad Abdullah Al Mukit at CUHK CSCIN
+
+My Student Number is 1155165211
